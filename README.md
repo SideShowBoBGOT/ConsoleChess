@@ -1,5 +1,5 @@
 # ConsoleChess
-A simple console chess game. Use WASD to move, J to select figure, K - to commit move.
+A simple console chess game. Launch EXE-file. Use WASD to move, J to select figure, K - to commit move.
 ## Game Menu
 Game has main menu:
 
